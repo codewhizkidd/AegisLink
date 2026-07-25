@@ -24,7 +24,7 @@ class FeatureExtraction:
         self.soup = ""
 
         try:
-            self.response = requests.get(url)
+            self.response = requests.get(url, timeout=8)
             self.soup = BeautifulSoup(self.response.text, 'html.parser')
         except:
             pass
@@ -175,13 +175,13 @@ class FeatureExtraction:
     def Favicon(self):
         try:
             for head in self.soup.find_all('head'):
-                for head.link in self.soup.find_all('link', href=True):
-                    dots = [x.start(0) for x in re.finditer('\.', head.link['href'])]
-                    if self.url in head.link['href'] or len(dots) == 1 or domain in head.link['href']:
+                for link in head.find_all('link', href=True):
+                    dots = [x.start(0) for x in re.finditer('\.', link['href'])]
+                    if self.url in link['href'] or len(dots) == 1 or self.domain in link['href']:
                         return 1
             return -1
         except:
-            return -1
+            return 0
 
     # 11. NonStdPort
     def NonStdPort(self):
@@ -205,6 +205,7 @@ class FeatureExtraction:
     # 13. RequestURL
     def RequestURL(self):
         try:
+            i, success = 0, 0
             for img in self.soup.find_all('img', src=True):
                 dots = [x.start(0) for x in re.finditer('\.', img['src'])]
                 if self.url in img['src'] or self.domain in img['src'] or len(dots) == 1:
@@ -247,7 +248,7 @@ class FeatureExtraction:
         try:
             i,unsafe = 0,0
             for a in self.soup.find_all('a', href=True):
-                if "#" in a['href'] or "javascript" in a['href'].lower() or "mailto" in a['href'].lower() or not (url in a['href'] or self.domain in a['href']):
+                if "#" in a['href'] or "javascript" in a['href'].lower() or "mailto" in a['href'].lower() or not (self.url in a['href'] or self.domain in a['href']):
                     unsafe = unsafe + 1
                 i = i + 1
 
@@ -309,27 +310,27 @@ class FeatureExtraction:
                     else:
                         return 1
         except:
-            return -1
+            return 0
 
     # 17. InfoEmail
     def InfoEmail(self):
         try:
-            if re.findall(r"[mail\(\)|mailto:?]", self.soap):
+            if re.findall(r"mailto:", self.response.text, re.IGNORECASE):
                 return -1
             else:
                 return 1
         except:
-            return -1
+            return 0
 
     # 18. AbnormalURL
     def AbnormalURL(self):
         try:
-            if self.response.text == self.whois_response:
+            if self.domain and self.domain in self.url:
                 return 1
             else:
                 return -1
         except:
-            return -1
+            return 0
 
     # 19. WebsiteForwarding
     def WebsiteForwarding(self):
@@ -346,42 +347,42 @@ class FeatureExtraction:
     # 20. StatusBarCust
     def StatusBarCust(self):
         try:
-            if re.findall("<script>.+onmouseover.+</script>", self.response.text):
-                return 1
-            else:
+            if re.findall(r"onmouseover\s*=\s*[\"'].*window\.status", self.response.text, re.IGNORECASE):
                 return -1
+            else:
+                return 1
         except:
-             return -1
+             return 0
 
     # 21. DisableRightClick
     def DisableRightClick(self):
         try:
-            if re.findall(r"event.button ?== ?2", self.response.text):
-                return 1
-            else:
+            if re.findall(r"event\.button\s*==\s*2", self.response.text):
                 return -1
+            else:
+                return 1
         except:
-             return -1
+             return 0
 
     # 22. UsingPopupWindow
     def UsingPopupWindow(self):
         try:
-            if re.findall(r"alert\(", self.response.text):
-                return 1
-            else:
+            if re.findall(r"window\.open\(", self.response.text):
                 return -1
+            else:
+                return 1
         except:
-             return -1
+             return 0
 
     # 23. IframeRedirection
     def IframeRedirection(self):
         try:
-            if re.findall(r"[<iframe>|<frameBorder>]", self.response.text):
-                return 1
-            else:
+            if re.findall(r"<iframe[^>]*frameborder\s*=\s*[\"']?0", self.response.text, re.IGNORECASE):
                 return -1
+            else:
+                return 1
         except:
-             return -1
+             return 0
 
     # 24. AgeofDomain
     def AgeofDomain(self):
@@ -419,28 +420,17 @@ class FeatureExtraction:
         except:
             return -1
 
-    # 26. WebsiteTraffic   
+    # 26. WebsiteTraffic
+    # NOTE: Alexa's traffic-rank API was shut down in 2022; no reliable free
+    # replacement exists, so this heuristic is neutral until one is wired in.
     def WebsiteTraffic(self):
-        try:
-            rank = BeautifulSoup(urllib.request.urlopen("http://data.alexa.com/data?cli=10&dat=s&url=" + url).read(), "xml").find("REACH")['RANK']
-            if (int(rank) < 100000):
-                return 1
-            return 0
-        except :
-            return -1
+        return 0
 
     # 27. PageRank
+    # NOTE: checkpagerank.net is unreliable/unmaintained; neutral until replaced.
     def PageRank(self):
-        try:
-            prank_checker_response = requests.post("https://www.checkpagerank.net/index.php", {"name": self.domain})
+        return 0
 
-            global_rank = int(re.findall(r"Global Rank: ([0-9]+)", prank_checker_response.text)[0])
-            if global_rank > 0 and global_rank < 100000:
-                return 1
-            return -1
-        except:
-            return -1
-            
 
     # 28. GoogleIndex
     def GoogleIndex(self):
@@ -470,7 +460,7 @@ class FeatureExtraction:
     def StatsReport(self):
         try:
             url_match = re.search(
-        'at\.ua|usa\.cc|baltazarpresentes\.com\.br|pe\.hu|esy\.es|hol\.es|sweddy\.com|myjino\.ru|96\.lt|ow\.ly', url)
+        'at\.ua|usa\.cc|baltazarpresentes\.com\.br|pe\.hu|esy\.es|hol\.es|sweddy\.com|myjino\.ru|96\.lt|ow\.ly', self.url)
             ip_address = socket.gethostbyname(self.domain)
             ip_match = re.search('146\.112\.61\.108|213\.174\.157\.151|121\.50\.168\.88|192\.185\.217\.116|78\.46\.211\.158|181\.174\.165\.13|46\.242\.145\.103|121\.50\.168\.40|83\.125\.22\.219|46\.242\.145\.98|'
                                 '107\.151\.148\.44|107\.151\.148\.107|64\.70\.19\.203|199\.184\.144\.27|107\.151\.148\.108|107\.151\.148\.109|119\.28\.52\.61|54\.83\.43\.69|52\.69\.166\.231|216\.58\.192\.225|'

@@ -1,0 +1,358 @@
+25/1600 processed, 25 succeeded
+2026-07-25 21:31:46,029 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [WinError 10061] No connection could be made because the target machine actively refused it
+2026-07-25 21:31:59,286 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+50/1600 processed, 50 succeeded
+2026-07-25 21:32:07,979 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:32:09,291 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+75/1600 processed, 75 succeeded
+2026-07-25 21:32:16,696 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+100/1600 processed, 100 succeeded
+125/1600 processed, 125 succeeded
+2026-07-25 21:32:41,780 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+150/1600 processed, 150 succeeded
+2026-07-25 21:32:45,509 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [WinError 10061] No connection could be made because the target machine actively refused it
+2026-07-25 21:32:48,430 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:32:48,989 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:32:51,873 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [WinError 10061] No connection could be made because the target machine actively refused it
+175/1600 processed, 175 succeeded
+2026-07-25 21:33:16,507 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+200/1600 processed, 200 succeeded
+2026-07-25 21:33:28,022 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+225/1600 processed, 225 succeeded
+2026-07-25 21:33:35,344 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:33:37,821 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:33:38,503 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:33:43,580 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:33:49,859 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+250/1600 processed, 250 succeeded
+2026-07-25 21:33:51,465 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:33:51,466 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:34:05,796 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+275/1600 processed, 275 succeeded
+300/1600 processed, 300 succeeded
+2026-07-25 21:35:34,324 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+325/1600 processed, 325 succeeded
+350/1600 processed, 350 succeeded
+2026-07-25 21:35:58,833 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [WinError 10054] An existing connection was forcibly closed by the remote host
+375/1600 processed, 375 succeeded
+2026-07-25 21:36:27,813 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:36:40,451 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:36:51,995 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+400/1600 processed, 400 succeeded
+2026-07-25 21:36:57,647 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:37:01,112 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:37:02,208 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:37:12,559 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:37:14,539 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+425/1600 processed, 425 succeeded
+2026-07-25 21:37:20,482 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:38:07,729 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:38:07,731 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+450/1600 processed, 450 succeeded
+2026-07-25 21:40:35,027 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:40:38,020 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+475/1600 processed, 475 succeeded
+2026-07-25 21:40:39,253 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:41:51,215 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+500/1600 processed, 500 succeeded
+2026-07-25 21:42:07,972 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+525/1600 processed, 525 succeeded
+550/1600 processed, 550 succeeded
+2026-07-25 21:42:33,509 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:42:42,239 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+575/1600 processed, 575 succeeded
+2026-07-25 21:42:47,950 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+600/1600 processed, 600 succeeded
+625/1600 processed, 625 succeeded
+2026-07-25 21:44:48,332 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+650/1600 processed, 650 succeeded
+675/1600 processed, 675 succeeded
+2026-07-25 21:44:59,915 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:44:59,948 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+700/1600 processed, 700 succeeded
+2026-07-25 21:45:08,125 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:45:08,845 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+725/1600 processed, 725 succeeded
+2026-07-25 21:45:25,354 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+750/1600 processed, 750 succeeded
+2026-07-25 21:45:45,246 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [WinError 10054] An existing connection was forcibly closed by the remote host
+775/1600 processed, 775 succeeded
+2026-07-25 21:45:53,352 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:45:53,480 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-07-25 21:45:53,586 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+800/1600 processed, 800 succeeded
+825/1600 processed, 825 succeeded
+850/1600 processed, 850 succeeded
+2026-07-25 21:46:33,698 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:46:35,448 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:46:35,976 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:46:36,673 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+875/1600 processed, 875 succeeded
+2026-07-25 21:46:57,156 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:47:07,165 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:47:07,384 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:47:07,384 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:47:11,210 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+900/1600 processed, 900 succeeded
+2026-07-25 21:47:12,845 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:47:13,070 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:47:21,333 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:47:26,519 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:47:26,559 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:47:47,798 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:48:14,892 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+925/1600 processed, 925 succeeded
+950/1600 processed, 950 succeeded
+2026-07-25 21:48:42,168 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:42,284 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:45,656 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:45,678 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+975/1600 processed, 975 succeeded
+2026-07-25 21:48:55,961 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:55,968 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:56,668 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:56,671 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:57,306 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:57,409 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:57,426 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:57,435 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:57,436 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:57,439 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:57,447 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1000/1600 processed, 1000 succeeded
+2026-07-25 21:48:57,631 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:57,636 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:57,895 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,005 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,010 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,014 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,015 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,021 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,021 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,043 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,103 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,106 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,206 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,309 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,310 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,311 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,312 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,443 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,466 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,593 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,603 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,608 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1025/1600 processed, 1025 succeeded
+2026-07-25 21:48:58,718 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,726 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,727 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,730 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,732 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,833 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,930 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:58,933 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,030 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,045 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,132 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,235 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,240 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,312 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,353 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,359 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,378 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,385 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,400 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,417 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,430 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,554 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,559 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1050/1600 processed, 1050 succeeded
+2026-07-25 21:48:59,647 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,652 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,653 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,676 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,748 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,748 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,755 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,850 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,856 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,858 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,905 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,960 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:48:59,987 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,016 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,090 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,131 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,178 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,216 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,219 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,362 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,366 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,370 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,478 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,478 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,481 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1075/1600 processed, 1075 succeeded
+2026-07-25 21:49:00,499 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,505 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,506 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,575 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,601 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,674 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,686 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,772 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,775 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,781 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,803 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,850 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,918 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,936 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:00,938 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,096 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,099 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,101 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,102 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,105 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,107 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,187 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,191 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,201 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,305 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1100/1600 processed, 1100 succeeded
+2026-07-25 21:49:01,313 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,395 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,397 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,406 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,410 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,538 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,548 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,599 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,618 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,726 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,727 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,728 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,730 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,732 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,773 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,782 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,802 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,803 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,810 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,902 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,909 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:01,911 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:03,033 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:03,034 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:03,037 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:03,039 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:03,041 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:03,042 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:03,044 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:03,045 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:03,047 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1125/1600 processed, 1125 succeeded
+2026-07-25 21:49:03,658 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:03,663 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:04,397 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:04,415 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:04,440 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:04,450 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:05,093 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:05,498 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:05,500 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:05,502 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:05,513 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1150/1600 processed, 1150 succeeded
+2026-07-25 21:49:07,207 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:10,949 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:10,971 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:10,972 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:10,972 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:11,788 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1175/1600 processed, 1175 succeeded
+2026-07-25 21:49:13,244 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:15,937 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:16,782 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:16,851 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:16,856 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:17,122 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:17,335 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1200/1600 processed, 1200 succeeded
+2026-07-25 21:49:17,339 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:17,477 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:17,848 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:17,852 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:17,853 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:19,412 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:49:19,489 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:19,491 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:21,137 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:21,332 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:23,489 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:23,489 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:23,493 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1225/1600 processed, 1225 succeeded
+2026-07-25 21:49:26,221 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:26,230 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1250/1600 processed, 1250 succeeded
+1275/1600 processed, 1275 succeeded
+1300/1600 processed, 1300 succeeded
+2026-07-25 21:49:38,860 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1325/1600 processed, 1325 succeeded
+2026-07-25 21:49:40,258 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:40,892 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:42,440 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1350/1600 processed, 1350 succeeded
+2026-07-25 21:49:48,384 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:49,356 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:49,807 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1375/1600 processed, 1375 succeeded
+2026-07-25 21:49:50,806 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:54,080 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:49:54,080 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:50:16,538 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1400/1600 processed, 1400 succeeded
+2026-07-25 21:50:38,690 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:51:14,923 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1425/1600 processed, 1425 succeeded
+2026-07-25 21:51:18,792 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:18,798 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:18,800 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:18,800 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:18,802 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:19,337 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:19,338 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:19,339 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:19,340 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:19,482 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:21,108 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:21,110 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:21,111 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1450/1600 processed, 1450 succeeded
+2026-07-25 21:51:21,190 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:21,190 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:21,193 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:21,604 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:21,605 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:23,166 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:23,187 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:23,387 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:23,557 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:23,973 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:24,000 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1475/1600 processed, 1475 succeeded
+2026-07-25 21:51:24,936 - whois.whois - ERROR - Error trying to connect to socket: closing socket - timed out
+2026-07-25 21:51:36,737 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1500/1600 processed, 1500 succeeded
+2026-07-25 21:51:41,364 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1525/1600 processed, 1525 succeeded
+2026-07-25 21:51:47,946 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:50,302 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:51,308 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1550/1600 processed, 1550 succeeded
+2026-07-25 21:51:55,789 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1575/1600 processed, 1575 succeeded
+2026-07-25 21:51:57,210 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+2026-07-25 21:51:58,321 - whois.whois - ERROR - Error trying to connect to socket: closing socket - [Errno 11001] getaddrinfo failed
+1600/1600 processed, 1600 succeeded
+Done: 1600/1600 URLs succeeded
